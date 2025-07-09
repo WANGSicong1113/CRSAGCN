@@ -30,7 +30,6 @@ It integrates:
       |     Predictor      |   <-- circRNA-disease association score
       +--------------------+
 
-
 ## Project Structure
 
 TranscircGCN/
