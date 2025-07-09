@@ -31,7 +31,7 @@ It integrates:
       +--------------------+
 
 
-Project Structure
+## Project Structure
 
 TranscircGCN/
 ├── data/                      # Dataset files (adjacency matrices, features, sequences)
