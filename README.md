@@ -29,3 +29,5 @@ It integrates:
       +--------------------+
       |     Predictor      |   <-- circRNA-disease association score
       +--------------------+
+ ```
+## Model Architecture
