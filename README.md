@@ -31,6 +31,7 @@ It integrates:
       +--------------------+
  ```
 ##Project Structure
+ ```text
 TranscircGCN/
 ├── data/                      # Dataset files (adjacency matrices, features, sequences)
 ├── model.py                   # Model definitions (DeepLncLoc, GCN, Transformer, Predictor)
@@ -38,4 +39,4 @@ TranscircGCN/
 ├── utils.py                   # Data preprocessing, metrics, helper functions
 ├── requirements.txt           # Dependencies
 └── README.md                  # This file
-
+ ```
